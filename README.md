@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jonasgeneralassembly@gmail.com**
 
-- ⚡ Fun fact **I built, in Finland with my own hands, my summer boathouse**
+- ⚡ Fun fact **I built in Finland, with my own hands my summer boathouse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
