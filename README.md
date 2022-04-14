@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H.P Jonas Høgh-Noori</h1>
-<h3 align="center">A Global Citizen currently in London who pivoted into full stack development</h3>
+<h3 align="center">A Global Citizen currently in London who pivoted into DevOps and web development</h3>
 
 - 🌱 I’m currently learning **Python & Node.js**
 
